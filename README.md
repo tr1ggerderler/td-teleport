@@ -1,10 +1,16 @@
-# teleport
-/iskg Oyuncu ID 
+# Teleport
+- /bankgo Oyuncu ID 
 
-/bankg Oyuncu ID 
+- /hastgo Oyuncu ID 
 
-/hasg Oyuncu ID 
+- /iskelego Oyuncu ID 
 
-/iskg Oyuncu ID 
+- /galerigo Oyuncu ID 
 
-Oyuncu ID boş kalırsa doğrudan tp olursunuz
+- /berbergo Oyuncu ID 
+
+- /dovmego Oyuncu ID 
+
+- /clothego Oyuncu ID 
+
+- Oyuncu ID boş kalırsa doğrudan tp olursunuz
